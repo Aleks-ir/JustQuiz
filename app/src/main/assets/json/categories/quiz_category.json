@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "question_category": "1",
+      "category_name": "Вселенная"
+    },
+    {
+      "question_category": "2",
+      "category_name": "Животные"
+    },
+    {
+      "question_category": "3",
+      "category_name": "Спорт и игры"
+    },
+    {
+      "question_category": "4",
+      "category_name": "Наука и техника"
+    },
+    {
+      "question_category": "5",
+      "category_name": "Литература и мифы"
+    },
+    {
+      "question_category": "6",
+      "category_name": "Географ. экспедиции"
+    },
+    {
+      "question_category": "7",
+      "category_name": "Головоломки"
+    },
+    {
+      "question_category": "8",
+      "category_name": "Медицина и человек"
+    },
+    {
+      "question_category": "9",
+      "category_name": "Религия"
+    },
+    {
+      "question_category": "10",
+      "category_name": "Флаги столицы"
+    },
+    {
+      "question_category": "11",
+      "category_name": "Растения"
+    },
+    {
+      "question_category": "12",
+      "category_name": "Жизнь в обществе"
+    },
+    {
+      "question_category": "13",
+      "category_name": "Искусство"
+    },
+    {
+      "question_category": "14",
+      "category_name": "История"
+    },
+    {
+      "question_category": "15",
+      "category_name": "Планета земля"
+    }
+  ]
+}
